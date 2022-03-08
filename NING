@@ -240,6 +240,8 @@ http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.
 http://111.12.101.23:6610/PLTV/77777777/224/3221225965/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="咪咕体育2" group-title="体育",咪咕体育2
 http://111.12.101.23:6610/PLTV/77777777/224/3221225935/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-name="斯诺克" group-title="体育",斯诺克1
+rtmp://playjx.juxingonline.net/watch/09qu5k
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台
