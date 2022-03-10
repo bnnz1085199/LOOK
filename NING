@@ -229,8 +229,8 @@ http://iptv.tvfix.org/hls/animal.m3u8
 http://iptv.tvfix.org/hls/lovenature4k.m3u8
 #EXTINF:-1 group-title="特区",Love Nature
 http://iptv.tvfix.org/hls/lovenature4k2.m3u8
-#EXTINF:-1 tvg-name="NBATV" group-title="体育",NBATV
-https://iptv.jmsooo.com/live/nbatv/index.m3u8
+
+
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="体育",极速汽车
 http://iptv.tvfix.org/hls/jsqchd.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育",劲爆体育
@@ -243,6 +243,8 @@ http://iptv.tvfix.org/hls/mlzqhd.m3u8
 http://iptv.tvfix.org/hls/yxfyhd.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育",五星体育
 http://119.167.229.31/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/NewTV.png" group-title="NewTV", 黑莓电竞
+http://39.135.138.5:6610/PLTV/88888888/224/3221225653/2/index.m3u8
 #EXTINF:-1 tvg-name="咪咕体育1" group-title="体育",咪咕体育1
 http://111.12.101.23:6610/PLTV/77777777/224/3221225965/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="咪咕体育2" group-title="体育",咪咕体育2
@@ -250,7 +252,7 @@ http://111.12.101.23:6610/PLTV/77777777/224/3221225935/index.m3u8?servicetype=1&
 #EXTINF:-1 tvg-name="咪咕体育3" group-title="体育",咪咕体育3
 http://111.12.101.23:6610/PLTV/77777777/224/3221225792/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="斯诺克" group-title="体育",斯诺克1
-rtmp://playjx.juxingonline.net/watch/09qu5k
+http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
 
 
 
@@ -381,7 +383,7 @@ rtmp://59.124.75.157/sat/md031
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻台
 http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻台
-http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+http://59.125.101.187:8528/hls/78/814/ch53.m3u8
 #EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台湾",亚洲旅游台
 http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6174" tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="台湾",博斯运动2
@@ -473,5 +475,4 @@ http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/NewTV.png" group-title="NewTV", NewTV金牌综艺
 http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.jsdelivr.net/gh/LiuYi0526/IPTV@master/TVlogos/NewTV.png" group-title="NewTV", 黑莓电竞
-http://39.135.138.5:6610/PLTV/88888888/224/3221225653/2/index.m3u8
+
