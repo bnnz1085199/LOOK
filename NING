@@ -257,11 +257,10 @@ http://111.12.101.23:6610/PLTV/77777777/224/3221225965/index.m3u8?servicetype=1&
 http://111.12.101.23:6610/PLTV/77777777/224/3221225935/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="咪咕体育3" group-title="体育",咪咕体育3
 http://111.12.101.23:6610/PLTV/77777777/224/3221225792/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="斯诺克" group-title="体育",斯诺克1
+#EXTINF:-1 tvg-id="6584" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="体育", CCTV 央视台球
 http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="风云足球" group-title="体育",风云足球
+#EXTINF:-1 tvg-id="6000" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="体育", CCTV 风云足球
 http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
-
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台
