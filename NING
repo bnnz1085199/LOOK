@@ -158,29 +158,14 @@ http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index
 http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 group-title="电影",斗鱼1
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
-#EXTINF:-1 group-title="电影",斗鱼2
-http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1 group-title="电影",斗鱼3
-http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-#EXTINF:-1 group-title="电影",斗鱼4
-http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-#EXTINF:-1 group-title="电影",斗鱼-综合电影
-http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv
-#EXTINF:-1 group-title="电影",斗鱼-牛叔说电影
-http://dyscdnali1.douyucdn.cn/live/2758565rXfu5x1d6.flv
-#EXTINF:-1 group-title="电影",斗鱼-小片片说电影
-http://dyscdnali1.douyucdn.cn/live/4258555r3isvDdlq.flv
-#EXTINF:-1 group-title="电影",斗鱼-万合天宜
-http://dyscdnali1.douyucdn.cn/live/9220456rQlbxjI8N.flv
-#EXTINF:-1 group-title="电影",斗鱼-经典科幻
-http://dyscdnali1.douyucdn.cn/live/6140589rK4T1xg8k.flv?uuid=
-#EXTINF:-1 group-title="电影",斗鱼-贝爷影厅
-http://dyscdnali1.douyucdn.cn/live/252802rZj9LIrw4M.flv?uuid=
-#EXTINF:-1 group-title="电影",虎牙-欧神
-http://aldirect.flv.huya.com/huyalive/1099531627890-1099531627890-85899835546271744-2199063379236-10057-A-0-1.flv?wsSecret=8d3bd8cc525fb300ccd4f3a488dd773b&wsTime=622de974&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Azzeic3lt2%3B&fs=bgct&t=103
-#EXTINF:-1 group-title="电影",虎牙-斯诺克1
-http://aldirect.flv.huya.com/huyalive/1099531627890-1099531627890-85899835546271744-2199063379236-10057-A-0-1.flv?wsSecret=530a862eda1ebc4ffc08a44a17aead58&wsTime=622b1bf6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3Aq6%3B&fs=bgct&t=103
-
+#EXTINF:-1 group-title="电影",南宁公共
+http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+#EXTINF:-1 group-title="电影",南宁影视娱乐
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1 group-title="电影",南宁新闻综合
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1 group-title="电影",南宁都市生活
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第1声道繁体)z
 http://iptv.tvfix.org/hls/jade.m3u8
