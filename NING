@@ -7,6 +7,8 @@ https://p.ggiptv.com/v/4k.m3u8
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
 http://111.12.101.23:6610/PLTV/77777777/224/3221225674/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
+http://121.31.12.101:8001/151/151.m3u8?playType=live&startProgramDate=1649054390082&expiredTime=0&checkKey=2295e8f2ebc1efda587f7acef16715e0&userId=177102256630&stbNo=null&areaId=591&contentID=00000000000000022021082300000609&programName=%E5%8D%97%E5%AE%81%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB%E9%AB%98%E6%B8%85&lspid=default&session=xVqU0PdbyvVFMhDyFA0TDZOupvJjKZpH
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
 http://111.12.101.23:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 综艺
