@@ -185,7 +185,7 @@ http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
 
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第1声道繁体)z
-http://iptv.tvfix.org/hls/jade.m3u8
+http://p2.weizan.cn/1554782467/983442937740321128/live.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第2声道简体)
 http://iptv.tvfix.org/hls/jade2.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台海外版(粤语繁体)
@@ -193,7 +193,7 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台海外版(普通话简体)
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="特区",J2
-http://iptv.tvfix.org/hls/j2.m3u8
+http://p2.weizan.cn/1554782467/983442937740321126/live.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="特区",J2(第2声道)
 http://iptv.tvfix.org/hls/j22.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="特区",凤凰资讯
@@ -201,25 +201,25 @@ http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="特区",凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="特区",无线新闻台
-http://iptv.tvfix.org/hls/inews.m3u8
+http://p2.weizan.cn/1554782467/983442937740321127/live.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="特区",明珠台
-http://iptv.tvfix.org/hls/pearl.m3u8
+http://p2.weizan.cn/1554782467/983442937740321125/live.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="特区",明珠台(第2声道)
 http://iptv.tvfix.org/hls/pearl2.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="特区",无线财经资讯台
-http://iptv.tvfix.org/hls/finance.m3u8
+http://p2.weizan.cn/1554782467/419707799203561069/live.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="特区",无线财经资讯台(第2声道)
 http://iptv.tvfix.org/hls/finance2.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="特区",无线财经资讯台海外版
 http://iptv.tvfix.org/hls/financenhk.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="特区",ViuTV
-http://iptv.tvfix.org/hls/viutv.m3u8
+http://p2.weizan.cn/1554782467/419707799203561067/live.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="特区",ViuTV 粤语
 http://iptv.tvfix.org/hls/viutv2.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="特区",ViuTV6
-http://iptv.tvfix.org/hls/viutv6.m3u8
+http://p2.weizan.cn/1554782467/419707799203561066/live.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="特区",香港国际财经台
-http://iptv.tvfix.org/hls/hkibc.m3u8
+http://p2.weizan.cn/1554782467/419707799203561068/live.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="特区",香港开电视
 http://iptv.tvfix.org/hls/opentv.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/radioer/radioer/raw/main/RTHK31.png" group-title="特区",RTHK31
