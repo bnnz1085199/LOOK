@@ -185,7 +185,7 @@ http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
 
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第1声道繁体)z
-http://p2.weizan.cn/1554782467/983442937740321128/live.m3u8
+http://p2.weizan.cn/1554782467/983442937740321148/live.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台(第2声道简体)
 http://iptv.tvfix.org/hls/jade2.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台海外版(粤语繁体)
@@ -193,7 +193,7 @@ http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="特区",翡翠台海外版(普通话简体)
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="特区",J2
-http://p2.weizan.cn/1554782467/983442937740321126/live.m3u8
+http://p2.weizan.cn/1554782467/983442937740321146/live.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="特区",J2(第2声道)
 http://iptv.tvfix.org/hls/j22.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="特区",凤凰资讯
@@ -201,9 +201,9 @@ http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="特区",凤凰中文
 http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="特区",无线新闻台
-http://p2.weizan.cn/1554782467/983442937740321127/live.m3u8
+http://p2.weizan.cn/1554782467/983442937740321146/live.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="特区",明珠台
-http://p2.weizan.cn/1554782467/983442937740321125/live.m3u8
+http://p2.weizan.cn/1554782467/983442937740321145/live.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="特区",明珠台(第2声道)
 http://iptv.tvfix.org/hls/pearl2.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="特区",无线财经资讯台
@@ -274,7 +274,8 @@ http://iptv.tvfix.org/hls/lovenature4k.m3u8
 #EXTINF:-1 group-title="特区",Love Nature
 http://iptv.tvfix.org/hls/lovenature4k2.m3u8
 
-
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育",五星体育
+http://aliyun-shbu-live.bestvcdn.com.cn/live/program/live/ssty/4000000/mnf.m3u8 
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育",纬来体育
 http://59.125.101.187:8600/playlist.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="体育",极速汽车
